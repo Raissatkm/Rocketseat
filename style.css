@@ -69,6 +69,7 @@ body {
   backdrop-filter: blur(4px);
   -webkit-backdrop-filter: blur(4px);
   border-radius: 9999px;
+  position: absolute;
 }
 /* links */
 ul {
